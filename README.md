@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Originally shared on youtube by JavaScript Mastery. 
 Youtube link https://www.youtube.com/watch?v=pUNSHPyVryU
 
-#Just for learning purposes.
+## Just for learning purposes.
 ## Getting Started
 
 First, run the development server:
